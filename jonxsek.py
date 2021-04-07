@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+#Tool for bastard
+
 import requests,re
 
 url = "https://zone-xsec.com/archive/page="
